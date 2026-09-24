@@ -1,0 +1,8 @@
+# .dockerignore (na pasta /mobile)
+MotorizApp/node_modules
+MotorizApp/android
+MotorizApp/ios
+MotorizApp/.git
+MotorizApp/.expo
+MotorizApp/dist
+*.log
